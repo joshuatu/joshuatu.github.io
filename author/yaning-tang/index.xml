@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yaning Tang | JT</title>
+    <link>/author/yaning-tang/</link>
+      <atom:link href="/author/yaning-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yaning Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Junyi Tu. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yaning Tang</title>
+      <link>/author/yaning-tang/</link>
+    </image>
+    
+    <item>
+      <title>Hirota bilinear equations with linear subspaces of solutions</title>
+      <link>/publication/ma-2012-hirota/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/ma-2012-hirota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two new Wronskian conditions for the (3&#43; 1)-dimensional Jimbo--Miwa equation</title>
+      <link>/publication/tang-2012-two/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-2012-two/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

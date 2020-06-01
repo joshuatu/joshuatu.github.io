@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuncheng You | JT</title>
+    <link>/author/yuncheng-you/</link>
+      <atom:link href="/author/yuncheng-you/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuncheng You</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Junyi Tu. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuncheng You</title>
+      <link>/author/yuncheng-you/</link>
+    </image>
+    
+    <item>
+      <title>Random attractor of stochastic Brusselator system with multiplicative noise</title>
+      <link>/publication/tu-2016-random/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2016-random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Viral Dynamics with Beddington-DeAngelis Functional Response</title>
+      <link>/publication/tu-2016-stochastic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2016-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random attractors and averaging for non-autonomous stochastic wave equations with nonlinear damping</title>
+      <link>/publication/li-2015-random/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2015-random/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

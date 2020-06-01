@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustafa Hajij | JT</title>
+    <link>/author/mustafa-hajij/</link>
+      <atom:link href="/author/mustafa-hajij/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mustafa Hajij</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Junyi Tu. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mustafa Hajij</title>
+      <link>/author/mustafa-hajij/</link>
+    </image>
+    
+    <item>
+      <title>Propagate and pair: a single-pass approach to critical point pairing in Reeb graphs</title>
+      <link>/publication/tu-2019-propagate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2019-propagate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring quality in point cloud-based 3D printed objects using topological data analysis</title>
+      <link>/publication/rosen-2018-inferring/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2018-inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using topological data analysis to infer the quality in point cloud-based 3d printed objects</title>
+      <link>/publication/rosen-2018-using/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2018-using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

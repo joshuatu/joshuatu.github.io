@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | JT</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Junyi Tu. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Propagate and pair: a single-pass approach to critical point pairing in Reeb graphs</title>
+      <link>/publication/tu-2019-propagate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2019-propagate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topologically-Guided Color Image Enhancement</title>
+      <link>/publication/tu-2019-topologically/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2019-topologically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid solution to calculating augmented join trees of 2d scalar fields in parallel</title>
+      <link>/publication/rosen-2017-hybrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2017-hybrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | JT</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Junyi Tu. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Propagate and pair: a single-pass approach to critical point pairing in Reeb graphs</title>
+      <link>/publication/tu-2019-propagate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2019-propagate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topologically-Guided Color Image Enhancement</title>
+      <link>/publication/tu-2019-topologically/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2019-topologically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid solution to parallel calculation of augmented join trees of scalar fields in any dimension</title>
+      <link>/publication/rosen-2018-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring quality in point cloud-based 3D printed objects using topological data analysis</title>
+      <link>/publication/rosen-2018-inferring/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2018-inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using topological data analysis to infer the quality in point cloud-based 3d printed objects</title>
+      <link>/publication/rosen-2018-using/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2018-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid solution to calculating augmented join trees of 2d scalar fields in parallel</title>
+      <link>/publication/rosen-2017-hybrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rosen-2017-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Attractors and Random Attractors of Reaction-Diffusion Systems</title>
+      <link>/publication/tu-2016-global/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2016-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random attractor of stochastic Brusselator system with multiplicative noise</title>
+      <link>/publication/tu-2016-random/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2016-random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Viral Dynamics with Beddington-DeAngelis Functional Response</title>
+      <link>/publication/tu-2016-stochastic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2016-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global attractors and robustness of the Boissonade system</title>
+      <link>/publication/tu-2015-global/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tu-2015-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random attractors and averaging for non-autonomous stochastic wave equations with nonlinear damping</title>
+      <link>/publication/li-2015-random/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2015-random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hirota bilinear equations with linear subspaces of solutions</title>
+      <link>/publication/ma-2012-hirota/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/ma-2012-hirota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two new Wronskian conditions for the (3&#43; 1)-dimensional Jimbo--Miwa equation</title>
+      <link>/publication/tang-2012-two/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-2012-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit flow equations and recursion operator of the ncKP hierarchy</title>
+      <link>/publication/he-2011-explicit/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/he-2011-explicit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
